@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Controller/Signup_Login/SignupViewController.m"
+            timestampString = "570450873.76609"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "-signupWithFacebookButtonClicked"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55-[SignupViewController signupWithFacebookButtonClicked]_block_invoke"
+                  moduleName = "TravelerMatching"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xuanpham/projects/Others/Gogasha/tm/iOS/Classes/Controller/Signup_Login/SignupViewController.m"
+                  timestampString = "570450763.310806"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "405"
+                  endingLineNumber = "405"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.404"
+                  moduleName = "TravelerMatching"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xuanpham/projects/Others/Gogasha/tm/iOS/Classes/Controller/Signup_Login/SignupViewController.m"
+                  timestampString = "570450763.313439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
